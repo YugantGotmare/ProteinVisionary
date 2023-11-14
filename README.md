@@ -6,6 +6,10 @@ Welcome to the ProteinVisionary, powered by ESMFold! This tool utilizes the ESMF
 
 This project provides a user-friendly web interface for predicting the 3D structure of proteins. Users can enter a protein sequence, initiate the structure prediction, and visualize the predicted structure in 3D.
 
+## Deployed Web App
+
+Access the live version of the Protein Structure Predictor on [Streamlit](https://proteinvisionary-protein-structure-predictor.streamlit.app/)
+
 ## How to Use
 
 1. **Enter Protein Sequence:** On the main page, enter the target protein sequence in the provided text area.
